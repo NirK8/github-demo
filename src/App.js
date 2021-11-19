@@ -1,9 +1,12 @@
+import { withAuthenticator, AmplifySignOut } from "@aws-amplify/ui-react";
+
 import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
+      <AmplifySignOut />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>Nir Kahana Demo App</p>
@@ -20,4 +23,4 @@ function App() {
   );
 }
 
-export default App;
+export default withAuthenticator(App);
