@@ -18,6 +18,12 @@
           "userPoolName": "amplify_backend_manager_daa4n7nm7zl8o",
           "webClientId": "2q9i4f6fjn27vrk7qo13iompl4",
           "nativeClientId": "2q9i4f6fjn27vrk7qo13iompl4"
+        },
+        "githubdemof1a622a1": {
+          "userPoolId": "eu-west-1_MYyah1glw",
+          "userPoolName": "amplify_backend_manager_daa4n7nm7zl8o",
+          "webClientId": "2q9i4f6fjn27vrk7qo13iompl4",
+          "nativeClientId": "2q9i4f6fjn27vrk7qo13iompl4"
         }
       }
     }

@@ -1,3 +1,11 @@
 {
-  "auth": {}
+  "auth": {
+    "githubdemof1a622a1": {
+      "service": "Cognito",
+      "serviceType": "imported",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": true
+    }
+  }
 }
