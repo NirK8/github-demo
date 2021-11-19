@@ -1,0 +1,11 @@
+{
+  "auth": {
+    "githubdemo4da5e08f": {
+      "service": "Cognito",
+      "serviceType": "imported",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": true
+    }
+  }
+}
