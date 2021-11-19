@@ -25,7 +25,13 @@
           "webClientId": "2q9i4f6fjn27vrk7qo13iompl4",
           "nativeClientId": "2q9i4f6fjn27vrk7qo13iompl4"
         },
-        "githubdemo0e5f06f8": {}
+        "githubdemo0e5f06f8": {},
+        "githubdemo": {
+          "userPoolId": "eu-west-1_0b0u2ZYU2",
+          "userPoolName": "nir-amp-user-pool",
+          "webClientId": "6beflo8aa63hajai0n3af0k2i1",
+          "nativeClientId": "6beflo8aa63hajai0n3af0k2i1"
+        }
       }
     }
   }
