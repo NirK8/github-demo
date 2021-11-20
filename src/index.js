@@ -1,6 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { AmplifyProvider } from "@aws-amplify/ui-react";
 
 import "./index.css";
 import App from "./App";
@@ -8,9 +7,7 @@ import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(
   <React.StrictMode>
-    <AmplifyProvider>
-      <App />
-    </AmplifyProvider>
+    <App />
   </React.StrictMode>,
   document.getElementById("root")
 );
