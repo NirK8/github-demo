@@ -1,11 +1,18 @@
 {
   "auth": {
-    "githubdemo": {
+    "githubdemo4e03276e": {
       "service": "Cognito",
       "serviceType": "imported",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],
-      "customAuth": false
+      "customAuth": true
+    }
+  },
+  "storage": {
+    "s3githubdemostoragedaa4n7nm7zl8o": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": []
     }
   }
 }

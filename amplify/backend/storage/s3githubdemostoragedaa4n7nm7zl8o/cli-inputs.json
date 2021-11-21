@@ -1,0 +1,12 @@
+{
+  "resourceName": "s3githubdemostoragedaa4n7nm7zl8o",
+  "bucketName": "github-demo-storage-daa4n7nm7zl8o",
+  "policyUUID": "f2b39571",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}

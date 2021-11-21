@@ -31,6 +31,19 @@
           "userPoolName": "nir-amp-user-pool",
           "webClientId": "6beflo8aa63hajai0n3af0k2i1",
           "nativeClientId": "6beflo8aa63hajai0n3af0k2i1"
+        },
+        "githubdemo4e03276e": {
+          "userPoolId": "eu-west-1_MYyah1glw",
+          "userPoolName": "amplify_backend_manager_daa4n7nm7zl8o",
+          "webClientId": "2q9i4f6fjn27vrk7qo13iompl4",
+          "nativeClientId": "2q9i4f6fjn27vrk7qo13iompl4",
+          "identityPoolId": "eu-west-1:f6d6b2a8-3faa-4902-9a08-fc04e26b88a0",
+          "identityPoolName": "amplify_backend_manager_daa4n7nm7zl8o",
+          "allowUnauthenticatedIdentities": true,
+          "authRoleArn": "arn:aws:iam::251284061026:role/eu-west-1_MYyah1glw-authRole",
+          "authRoleName": "eu-west-1_MYyah1glw-authRole",
+          "unauthRoleArn": "arn:aws:iam::251284061026:role/amplify-amplify601f2bffb97e4-staging-151052-unauthRole",
+          "unauthRoleName": "amplify-amplify601f2bffb97e4-staging-151052-unauthRole"
         }
       }
     }
